@@ -1,44 +1,44 @@
-﻿CodProv;CodDepto;Departamento;Depto;ID;Partido1;Partido2;Partido3;Partido4;Partido5;Partido6;Region;Area
-02;000;Comunas;02000;1;CA;C.A.B.A.;CIUDAD AUTONOMA DE BUENOS AIRES;CF;CABA;Capital Federal;CF;ORIG
-02;001;Comuna 01;02001;111;;;;;;;;
-02;002;Comuna 02;02002;111;;;;;;;;
-02;003;Comuna 03;02003;111;;;;;;;;
-02;004;Comuna 04;02004;111;;;;;;;;
-02;005;Comuna 05;02005;111;;;;;;;;
-02;006;Comuna 06;02006;111;;;;;;;;
-02;007;Comuna 07;02007;111;;;;;;;;
-02;008;Comuna 08;02008;111;;;;;;;;
-02;009;Comuna 09;02009;111;;;;;;;;
-02;010;Comuna 10;02010;111;;;;;;;;
-02;011;Comuna 11;02011;111;;;;;;;;
-02;012;Comuna 12;02012;111;;;;;;;;
-02;013;Comuna 13;02013;111;;;;;;;;
-02;014;Comuna 14;02014;111;;;;;;;;
-02;015;Comuna 15;02015;111;;;;;;;;
-06;028;Almirante Brown;06028;23;AB;ALMIRANTE BROWN;Alte Brown;ALMTE. BROWN;Pdo. Alte Brown;Almirante Brown;SO;ORIG
-06;035;Avellaneda;06035;19;AV;AVELLANEDA;Avellaneda;;;Avellaneda;SE;ORIG
-06;091;Berazategui;06091;29;BE;BERAZATEGUI;Berazategui;;;Berazategui;;
-06;260;Esteban Echeverría;06260;24;EE;ESTEBAN ECHEVERRÍA;ESTEBAN ECHEVERRIA;Esteban Echeverria;Pdo. E. Echeverría;Esteban Echeverría;SO;ORIG
-06;270;Ezeiza;06270;25;EZ;EZEIZA;Ezeiza;Pdo Ezeiza;;Ezeiza;SO;ORIG
-06;274;Florencio Varela;06274;22;FV;FLORENCIO VARELA;Florencio Varela;;;Florencio Varela;SE;NUEVAS
-06;371;General San Martín;06371;5;SM;SAN MARTÍN;GENERAL SAN MARTIN;San Martin;General San Martín;San Martín;NOR;ORIG
-06;408;Hurlingham;06408;13;HG;HURLINGHAM;Hurlingham;HU;Pdo. Hurlingham;Hurlingham;OE;ORIG
-06;410;Ituzaingó;06410;14;IT;ITUZAINGÓ;ITUZAINGO;Ituzaingo;Pdo. Ituzaingó;Ituzaingó;OE;ORIG
-06;412;José C. Paz;06412;8;JP;JOSÉ C. PAZ;JOSE C PAZ;José C. Paz;Jose C Paz;José C. Paz;OE;NUEVAS
-06;427;La Matanza;06427;12;LM;LA MATANZA;La Matanza;;;La Matanza;OE;ORIG
-06;434;Lanús;06434;20;LA;LANÚS;LANUS;Lanús;Lanus;Lanús;SE;ORIG
-06;490;Lomas de Zamora;06490;26;LZ;LOMAS DE ZAMORA;Lomas De Zamora;;;Lomas de Zamora;SO;ORIG
-06;515;Malvinas Argentinas ;06515;9;MA;MALVINAS ARGENTINAS;Malvinas Argentinas;;;Malvinas Argentinas;NOR;NUEVAS
-06;539;Merlo;06539;17;ME;MERLO;Merlo;;;Merlo;OE;NUEVAS
-06;560;Moreno;06560;18;MR;MORENO;Moreno;;;Moreno;OE;NUEVAS
-06;568;Morón;06568;15;MO;MORÓN;MORON;Moron;Pdo. Morón;Morón;OE;ORIG
-06;658;Quilmes;06658;21;QM;QUILMES;Quilmes;;;Quilmes;SE;ORIG
-06;749;San Fernando;06749;2;SF;SAN FERNANDO;San Fernando;Pdo. San Fernando;;San Fernando;NOR;ORIG
-06;756;San Isidro;06756;4;SI;SAN ISIDRO;San Isidro;;;San Isidro;NOR;ORIG
-06;760;San Miguel;06760;7;MI;SAN MIGUEL;San Miguel;;;San Miguel;NOR;NUEVAS
-06;805;Tigre;06805;3;TI;TIGRE;Tigre;Pdo. Tigre;;Tigre;NOR;ORIG
-06;840;Tres de Febrero;06840;16;TR;TRES DE FEBRERO;Tres De Febrero;;;Tres de Febrero;OE;ORIG
-06;861;Vicente López;06861;6;VL;VICENTE LÓPEZ;VICENTE LOPEZ;Vicente López;Vicente Lopez;Vicente López;NOR;ORIG
-06;252;Escobar;06252;10;ES;ESCOBAR;Escobar;;;Escobar;NOR;NUEVAS
-06;638;Pilar;06638;11;PI;PILAR;Pilar;;;Pilar;NOR;NUEVAS
-06;648;Presidente Perón;06648;27;PP;PRESIDENTE PERÓN;PRESIDENTE PERON;Presidente Peron;;Presidente Perón;SO;NUEVAS
+﻿CodProv;CodDepto;Departamento;Depto;ID;Partido1;Partido2;Partido3;Partido4;Partido5;Partido6;Partido7;Region;Area
+02;000;Comunas;02000;1;CA;C.A.B.A.;CIUDAD AUTONOMA DE BUENOS AIRES;CF;CABA;Capital Federal;CAPITAL FEDERAL;CF;ORIG
+02;001;Comuna 01;02001;111;;;;;;;;;
+02;002;Comuna 02;02002;111;;;;;;;;;
+02;003;Comuna 03;02003;111;;;;;;;;;
+02;004;Comuna 04;02004;111;;;;;;;;;
+02;005;Comuna 05;02005;111;;;;;;;;;
+02;006;Comuna 06;02006;111;;;;;;;;;
+02;007;Comuna 07;02007;111;;;;;;;;;
+02;008;Comuna 08;02008;111;;;;;;;;;
+02;009;Comuna 09;02009;111;;;;;;;;;
+02;010;Comuna 10;02010;111;;;;;;;;;
+02;011;Comuna 11;02011;111;;;;;;;;;
+02;012;Comuna 12;02012;111;;;;;;;;;
+02;013;Comuna 13;02013;111;;;;;;;;;
+02;014;Comuna 14;02014;111;;;;;;;;;
+02;015;Comuna 15;02015;111;;;;;;;;;
+06;028;Almirante Brown;06028;23;AB;ALMIRANTE BROWN;Alte Brown;ALMTE. BROWN;Pdo. Alte Brown;Almirante Brown;ALMTE BROWN;SO;ORIG
+06;035;Avellaneda;06035;19;AV;AVELLANEDA;Avellaneda;;;Avellaneda;;SE;ORIG
+06;091;Berazategui;06091;29;BE;BERAZATEGUI;Berazategui;;;Berazategui;;;
+06;260;Esteban Echeverría;06260;24;EE;ESTEBAN ECHEVERRÍA;ESTEBAN ECHEVERRIA;Esteban Echeverria;Pdo. E. Echeverría;Esteban Echeverría;;SO;ORIG
+06;270;Ezeiza;06270;25;EZ;EZEIZA;Ezeiza;Pdo Ezeiza;;Ezeiza;;SO;ORIG
+06;274;Florencio Varela;06274;22;FV;FLORENCIO VARELA;Florencio Varela;;;Florencio Varela;;SE;NUEVAS
+06;371;General San Martín;06371;5;SM;SAN MARTÍN;GENERAL SAN MARTIN;San Martin;General San Martín;San Martín;SAN MARTIN;NOR;ORIG
+06;408;Hurlingham;06408;13;HG;HURLINGHAM;Hurlingham;HU;Pdo. Hurlingham;Hurlingham;;OE;ORIG
+06;410;Ituzaingó;06410;14;IT;ITUZAINGÓ;ITUZAINGO;Ituzaingo;Pdo. Ituzaingó;Ituzaingó;;OE;ORIG
+06;412;José C. Paz;06412;8;JP;JOSÉ C. PAZ;JOSE C PAZ;José C. Paz;Jose C Paz;José C. Paz;;OE;NUEVAS
+06;427;La Matanza;06427;12;LM;LA MATANZA;La Matanza;;;La Matanza;;OE;ORIG
+06;434;Lanús;06434;20;LA;LANÚS;LANUS;Lanús;Lanus;Lanús;;SE;ORIG
+06;490;Lomas de Zamora;06490;26;LZ;LOMAS DE ZAMORA;Lomas De Zamora;;;Lomas de Zamora;;SO;ORIG
+06;515;Malvinas Argentinas ;06515;9;MA;MALVINAS ARGENTINAS;Malvinas Argentinas;;;Malvinas Argentinas;;NOR;NUEVAS
+06;539;Merlo;06539;17;ME;MERLO;Merlo;;;Merlo;;OE;NUEVAS
+06;560;Moreno;06560;18;MR;MORENO;Moreno;;;Moreno;;OE;NUEVAS
+06;568;Morón;06568;15;MO;MORÓN;MORON;Moron;Pdo. Morón;Morón;;OE;ORIG
+06;658;Quilmes;06658;21;QM;QUILMES;Quilmes;;;Quilmes;;SE;ORIG
+06;749;San Fernando;06749;2;SF;SAN FERNANDO;San Fernando;Pdo. San Fernando;;San Fernando;;NOR;ORIG
+06;756;San Isidro;06756;4;SI;SAN ISIDRO;San Isidro;;;San Isidro;;NOR;ORIG
+06;760;San Miguel;06760;7;MI;SAN MIGUEL;San Miguel;;;San Miguel;;NOR;NUEVAS
+06;805;Tigre;06805;3;TI;TIGRE;Tigre;Pdo. Tigre;;Tigre;;NOR;ORIG
+06;840;Tres de Febrero;06840;16;TR;TRES DE FEBRERO;Tres De Febrero;;;Tres de Febrero;;OE;ORIG
+06;861;Vicente López;06861;6;VL;VICENTE LÓPEZ;VICENTE LOPEZ;Vicente López;Vicente Lopez;Vicente López;;NOR;ORIG
+06;252;Escobar;06252;10;ES;ESCOBAR;Escobar;;;Escobar;;NOR;NUEVAS
+06;638;Pilar;06638;11;PI;PILAR;Pilar;;;Pilar;;NOR;NUEVAS
+06;648;Presidente Perón;06648;27;PP;PRESIDENTE PERÓN;PRESIDENTE PERON;Presidente Peron;;Presidente Perón;;SO;NUEVAS
